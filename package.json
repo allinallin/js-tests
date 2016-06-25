@@ -1,0 +1,14 @@
+{
+  "name": "mocha-tests",
+  "version": "1.0.0",
+  "description": "An example mocha test project for scripts using the revealing module pattern.",
+  "main": "",
+  "scripts": {
+    "test": "mocha --require test/setupEnv.js"
+  },
+  "author": "allin",
+  "license": "ISC",
+  "devDependencies": {
+    "expect.js": "^0.3.1"
+  }
+}
